@@ -45,7 +45,8 @@ PREMIUM_CUSTOMER: Customer segmentation used to differentiate shoppers by the pr
 
 Note: While the data set would not normally be considered large, some operations may still take some time to run. 
 
-### Submission
+## Submission
+[View SalesAnalysis.sql file here](SalesAnalysis.sql)
 - Tools: MySQL
 - Skills used: Converting Data Types, Manipulation syntax, String Expressions, Windows Functions, Joins, CTE
 
