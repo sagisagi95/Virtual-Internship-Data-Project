@@ -4,16 +4,16 @@
 
 ## Task 1: Data Cleaning and Customer Analytics
 
-### Business Context
+### 📝Business Context
 You are part of Quantium’s retail analytics team and have been approached by your client, the Category Manager for chips, who wants to better understand the types of customers who purchase chips and their purchasing behaviour within the region.
 
 The insights from your analysis will feed into the supermarket’s strategic plan for the chip category in the next half year.
 
-### Tasks
+### 🎯Tasks
    - Analyze transaction and customer data to identify trends and inconsistencies.
    - Develop metrics and examine sales drivers to gain insights into overall sales performance.
 
-### Dataset Overview
+### 🗂️Dataset Overview
 2 tables: Transaction_Data.xlsx and Purchase_Behavior.xlsx
 
 **Table Transaction_Data**
@@ -49,7 +49,7 @@ Note: While the data set would not normally be considered large, some operations
 - Tools: SQL
 - Skills used: Converting Data Types, Manipulation syntax, String Expressions, Windows Functions, Joins, CTE
 
-### Findings summary
+### 💡Key Findings 
 1. As we can see from customer behavior patterns:
 - Sales are coming mainly from budget-large households and younger mainstream Singles/Couples
 - The chips category is a mainstream (mass-market) category, not driven by premium buyers
